@@ -1,0 +1,132 @@
+body {
+    overflow: hidden;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-family: 'Pretendard-Thin';
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 50px;
+    font-size: 70px;
+}
+
+h2 {
+    font-family: 'Pretendard-Thin';
+    color: #000000;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+h3 {
+    font-family: 'Pretendard-Thin';
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+h4 {
+    font-family: 'Pretendard-Thin';
+    color: #000000;
+    text-align: center;
+    font-style: italic;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+h5 {
+    font-family: 'Pretendard-Thin';
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+h6 {
+    font-family: 'Pretendard-Thin';
+    color: #000000;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 27px;
+}
+
+h7 {
+    font-size : 30px;
+}
+
+
+
+/* page 1 */
+
+.one {
+    background-size: cover;
+    text-align: center;
+    padding-top: 180px;
+    padding-bottom: 130px;
+}
+
+
+/* page 2 */
+
+.intext {
+    color: #000000;
+
+    margin-top: 35px;
+
+    margin-right:50px;
+}
+
+.intext2 {
+    color: #000000;
+
+    margin-top: 35px;
+    padding-left: 50px;
+}
+
+/* page 3 */
+
+#nav {
+    background-color: #000000;
+    width:200px;
+    height:255px;
+    float:left;
+}
+#section {
+    background-color: #ffffff;
+    width:600px;
+    text-align:left;
+    float:left;
+    padding:10px;
+}
+
+/* page 4 */
+
+#qname {
+    width:15cm;
+    text-align:left;
+    padding:10px;
+    margin-left: 5cm;
+    margin-top: 1cm;
+    float:left;
+}
+#qanswer {
+    width:15cm;
+    text-align:left;
+    padding:10px;
+    margin-left: 5cm;
+
+    float:left;
+
+}
+
+
+
